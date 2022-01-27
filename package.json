@@ -1,0 +1,71 @@
+{
+  "name": "hello-world",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@lottiefiles/react-lottie-player": "^3.4.1",
+    "@material-ui/core": "^4.12.3",
+    "@mui/icons-material": "^5.3.0",
+    "@mui/material": "^5.3.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.24.0",
+    "express": "^4.17.2",
+    "firebase": "^4.8.0",
+    "jquery": "^3.6.0",
+    "lottie-web": "^5.8.1",
+    "nodemon": "^2.0.15",
+    "react": "^17.0.2",
+    "react-copy-to-clipboard": "^5.0.4",
+    "react-dom": "^17.0.2",
+    "react-facebook-login": "^4.1.1",
+    "react-google-button": "^0.7.2",
+    "react-google-login": "^5.2.2",
+    "react-js-stickynav": "^1.0.2",
+    "react-lottie": "^1.2.3",
+    "react-microsoft-login": "^1.15.0",
+    "react-modal": "^3.14.4",
+    "react-redux": "^7.2.6",
+    "react-responsive-modal": "^6.2.0",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "4.0.3",
+    "react-spotify-web-playback": "^0.9.1",
+    "react-transition-group": "^4.4.2",
+    "react-uikit-button": "^2.0.2",
+    "reactjs-popup": "^2.0.5",
+    "redux": "^4.1.2",
+    "simple-peer": "^9.11.0",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1",
+    "styled-components": "^5.3.3",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "nodemon server.js"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
