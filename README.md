@@ -1,3 +1,3 @@
 #Live Video call makeup
 
-Initialize our Node.js Project
+Initialize Node.js Project
